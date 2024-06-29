@@ -1,0 +1,12 @@
+[Server]
+Port = ":8080"
+
+[Git]
+UseGit = true
+RepoURL = "https://github.com/ewinhsu/knowledge-base-integration"
+Branch = "main"
+LocalPath = "data"
+
+[Database]
+Path = "comments.db"
+
